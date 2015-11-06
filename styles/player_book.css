@@ -1,0 +1,164 @@
+div	{
+	/*border: 1px solid black; */
+}
+
+.hypnomap	{
+	background-image: url('../images/hypno_map.png');
+	background-size: 100% 100%;
+	padding: 3mm 1mm 1mm 2mm;
+    color: #2e0101;
+    width: 570px;
+    z-index: 100;
+    position: absolute;
+}
+
+#controls   {
+    text-align: center;
+    margin-left: 580px;
+}
+
+.hypnomap, #controls    {
+    float: left;
+}
+
+#hypnomap_frame {
+    background-image: url("../images/display_map.png");
+    background-size: 100% 100%;
+    height: 885px;
+    left: -47px;
+    position: absolute;
+    top: -46px;
+    width: 661px;
+    z-index: -100;
+}
+
+.locations  {
+    z-index: 50;
+}
+
+
+.hypnomap_caption	{
+	width: 95%;
+	height: 7mm;
+    font-family: 'Nautilus Pompilius';
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+.location	{
+	width: 32mm;
+	height: 43mm;
+	background-size: 100% 86%;
+	float: left;
+	margin: 0 2mm;
+	background-repeat: no-repeat;
+}
+
+.location img	{
+	width: 32mm;
+	height: 30mm;
+}
+
+.location_name	{
+	background-image: url('../images/map_locations/map_location_text.png');
+	width: 100%;
+	height: 11mm;
+	margin-top: 26mm;
+	background-size: 100% 100%;
+    font-family: 'ZopaCyr';
+	line-height: 1.8em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.65em;
+    padding-top: 0.5mm;
+    z-index: 50;
+}
+
+	.location_name a, .location_name a:visited	{
+		color: #2e0101;
+		text-decoration: none;
+        cursor: pointer;
+        z-index: 50;
+	}
+
+.reminder	{
+	float: left;
+	width: 144mm;
+	height: 24mm;
+	background-image: url('../images/old_paper.png');
+	background-size: 100% 100%;
+	padding: 2mm 10mm 0mm 10mm;
+    font-family: 'ZopaCyr';
+    text-align: justify;
+	font-size: 0.65em;
+}
+
+
+
+@font-face {
+    font-family: 'ZopaCyr';
+    src: local("ZopaCyr") format('open-type');
+    /*src: url("../fonts/ZopaCyr.otf");*/
+}
+
+.uplimits	{
+	background-image: url('../images/uplimits.jpg');
+	background-size: 100% 100%;
+    padding: 11% 6% 3% 6%
+}
+
+.uplimit_caption	{
+	font-family: 'Marta Decor Two';
+	font-size: 2.4em;
+    line-height: 0.8em;
+    margin: 0mm 0mm -2mm 0mm;
+	width: 100%;
+	text-align: center;
+    color: #3f1212;
+    font-weight: normal;
+}
+
+.uplimit_conditions		{
+	font-size: 4mm;
+    line-height: 5.5mm;
+	font-family: 'ZopaCyr';
+    text-align: justify;
+    color: #3f1212;
+    hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}
+
+.uplimit_gems img, .uplimit_conditions img	{
+	width: 7mm;
+	height: 7mm;
+    margin: 1.5mm 1mm -2.0mm 0mm;
+}
+
+.uplimit_gems	{
+	font-size: 2em; 
+	font-weight: bold;
+}
+
+.watermark	{
+	font-size: 0.4em;
+	padding-left: 7mm;
+	position: relative; 
+	top: -10mm;
+}
+
+.remind {
+	font-size: 0.55em;
+	margin: 0mm 0mm 1mm 0mm;
+    text-indent: 12mm;
+	position: relative; 
+	font-family: 'ZopaCyr';
+    text-align: justify;
+        hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}

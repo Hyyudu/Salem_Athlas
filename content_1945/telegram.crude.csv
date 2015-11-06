@@ -1,0 +1,11 @@
+print;role_id;character_name;contact_address;contact_name;raw_type;max_crates;price;text
+4;10;Alice Pickering;mt. Pleasant-Drive, Brooksby farm;Dorothy Samwell;malt;3;100;Приветствую тебя, подруга!<br>У тебя есть солод? Пришли мне пару-тройку ящиков. Оплачу как всегда.
+4;11;Victor Turner;Forster-road, Manchester-by-the-Sea;Samuel Chester;malt;4;100;Хай, дружище Сэм!<br> Помнишь солод, который выращивает твой предок? Подгони-ка мне малость такого!
+4;15;Morrigan Patricks;Cherry street, Wenham;Michael Wenson;malt;5;100;Привет, Майк!<br>Организуй-ка мне ящик-другой твоего классного солода!
+4;16;Simon Walker;Mill street, Beverly;Steven Madison;polymer;5;200;Дорогой Стив, здравствуй.<br>Пришли мне полимеров, будь ласков! Я в долгу не останусь, ты же знаешь.
+4;20;David Oaktorp;Eastern avenue, Lynnfield;Vincent Banks;polymer;3;200;Здорово, кузен!<br>Привет твоему идиоту-соседу, и подгони-ка мне, пожалуйста, ящик-другой полимеров!
+4;21;Bruno Patricks;Fenley street, Revere;Abraham Weisman;tare;4;150;Привет, Эйбрахам!<br> А не организуешь ли ты ящичек-другой упаковочных материалов для приятеля?
+4;25;Amadhi Bloom;Eastern avenue, Lynnfield;Oliver Highword;tare;4;150;Доброго дня, мистер Хайворд!<br>Как жизнь, как здоровье супруги? Пришлите мне немного тары, мне тут барахло убирать некуда
+4;26;Jonathan Teach;Felton street, Brooksby farm;Robert Stonebridge;alkaloid;4;300;Здорово, приятель!<br>Как обычно, готов подкинуть тебе деньжат, если дядя пришлет мне несколько ящиков алкалоидов.
+4;30;Ronald Rivier;Summer street, Lynnfield;Miles Summerby;alkaloid;5;300;Привет тебе, Майлз!<br> Организуй-ка мне несколько ящиков твоих алкалоидов!
+4;31;Debora Janiny;Stanley-road, Lynnfield;Wilbert Parsons;alkaloid;3;300;Привет, дружок!<br>Как ты там, как сестра? Пришли-ка мне пару ящиков алкалоидов

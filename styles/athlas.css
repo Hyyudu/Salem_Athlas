@@ -1,0 +1,246 @@
+*	{
+	font-family: Verdana;
+}
+
+body    {
+    background-image: url('../images/athlas_background.jpg');
+    background-repeat: repeat;
+}
+
+@font-face {
+	font-family: segoeprb;
+	src: local("Segoe Print Bold"),
+	url("segoeprb.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Nautilus Pompilius';
+    src: local("Nautilus Pompilius") format('open-type');
+   /* src: url(../fonts/NautilusPompilius.otf) format('open-type'); */
+}
+
+@font-face {
+    font-family: 'ZopaCyr';
+    src: local("ZopaCyr") format('open-type');
+    /*src: url("../fonts/ZopaCyr.otf");*/
+}
+
+.image_hint	{
+	display: none;  
+}
+
+a	{
+	cursor: pointer;
+}
+
+.sets img   {
+    width: 10mm;
+    height: 10mm;
+}
+
+.athlas_page	{
+
+	width: 1000px;
+    margin: 0 auto;
+    color: #888;
+}
+
+
+
+.athlas_page .text_holder   {
+    border: 3px #888 solid; /* стили рамки */
+    -moz-border-radius: 10px; /* закругление для старых Mozilla Firefox */
+    -webkit-border-radius: 10px; /* закругление для старых Chrome и Safari */
+    -khtml-border-radius:10px; /* закругл. для браузера Konquerer системы Linux */
+    border-radius: 10px; /* закругление углов для всех, кто понимает */
+}
+
+
+.upper_part .image_holder {
+
+    width: 800px;
+    height: 430px;
+	background-size: 687px 317px, cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	opacity: 1.0;
+    float: left;
+}
+
+.image_holder img   {
+    width: 100%;
+    height: 100%;
+}
+
+.upper_part .controls   {
+    float: left;
+    text-align: center;
+}
+
+.upper_part .controls img   {
+    max-width: 150px;
+}
+
+.clear  {
+    clear:both;
+}
+
+.athlas_page .separator1{
+	width: 12mm;
+	height: 9mm;
+	margin-left: 100mm;
+	margin-top: -1.0mm;
+	margin-bottom: -1.0mm;
+	background-size: 100% 100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-image: url(../images/athlas/hr1.png);
+}
+
+.athlas_page .separator2{
+	width: 30mm;
+	height: 5mm;
+	margin-left: 90mm;
+	margin-top: 1.0mm;
+	margin-bottom: -0.5mm;
+	background-size: 100% 100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-image: url(../images/athlas/hr2.png);
+}
+
+.text_holder    {
+    padding: 30px;
+}
+
+.athlas_page .scen_holder{
+	line-height: 1.2;
+}
+
+.athlas_page .todos, .athlas_page .actions, .athlas_page .addons{
+	font-family: Verdana;
+	text-align: justify;
+} 
+
+.athlas_page a, .athlas_page a:visited	{
+	color: #FFDD00;
+	font-weight: bold;
+}
+
+.athlas_page .scen_holder, .athlas_page .todos, .athlas_page .actions_say{
+	font-size: 5.2mm;
+	line-height: 1.3;
+	text-align: justify;
+	font-family: 'Nautilus Pompilius';
+}
+
+.actions_say    {
+    margin-bottom: 2px;
+}
+
+.athlas_page .todos {
+	font-size: 5.2mm;
+    line-height: 150%;
+    vertical-align: middle;
+    color: #EEE;
+    margin-bottom: 30px;
+}
+
+.athlas_page .rules, .athlas_page .rules b{
+	font-size: 4.0mm;
+	line-height: 1.0;
+	text-align: center;
+}
+
+.athlas_page .addons, .athlas_page .addons b{
+    margin: 10px 0 20px 0;
+	font-size: 18px;
+	line-height: 1.4;
+    color: #EEE;
+    font-family: Verdana;
+}
+
+.athlas_page .actions, .athlas_page .actions b, .athlas_page .actions a{
+	font-size: 4.4mm;
+	line-height: 1.2;
+}
+
+.athlas_page .command, .athlas_page .command b{
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.2;
+    text-transform: uppercase;
+    color: #DDD;
+    font-style: normal !important;
+}
+
+.athlas_page .rules img, .athlas_page .addons img, .athlas_page .actions img {
+	width: 5mm;
+	height: 5mm;
+
+} 
+
+.epigraph	{
+	font-size: 1.1em;
+	text-align: right;
+	width: 100%;
+	font-family: "Nautilus Pompilius";
+}
+
+
+.actions, .todos, .addons	{
+	hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}
+
+	.actions b	{
+		hyphens: none;
+		-moz-hyphens: none;
+		-webkit-hyphens: none;
+		-ms-hyphens: none;
+	}
+
+.img_question   {
+    height: 40px;
+    margin-bottom: -3mm;
+    content:url("../images/question.png");
+}
+
+.button {
+    background-image: url('../images/input_gray.png');
+    background-size: 105% 100%;
+    display: inline-block;
+    padding: 7px;
+    background-position: -7px 0;
+    margin-bottom: 15px;
+}
+
+.button a{
+    color: #FFe640;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.select_result  {
+    display:none;
+}
+
+#blood_splash   {
+    position: fixed;
+    transform: translate(+50%, 0);
+    width: 600px;
+    height: 600px;
+    background-size: 100% 100%;
+    z-index: 1000;
+    left: 100px;
+    top: 0px;
+    opacity: 0;
+    display:none;
+}
+
+.blood_1    {    background-image: url('../images/blood_1.png');}
+.blood_2    {    background-image: url('../images/blood_2.png');}
+.blood_3    {    background-image: url('../images/blood_3.png');}
+

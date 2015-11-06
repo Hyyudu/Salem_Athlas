@@ -1,0 +1,35 @@
+<div class="athlas_page" style="mask: url(#bigmask);">
+    <div class=upper_part>
+        <div class="image_holder" style="background-image: url(../images/athlas/{story}/{image}); ">
+            <img src='../images/display_border.png'>
+        </div>
+        <div class="controls">
+            <img src='../images/label.png'><br>
+            <img src="../images/diod_red.png"><br>
+            АКТИВНОСТЬ МОЗГА<br><br>
+            <a href='#' onClick='awakening()'><img src='../images/tumbler.png'></a><br>
+            ЭКСТРЕННОЕ<br>ПРОБУЖДЕНИЕ
+        </div>
+        <div class=clear></div>
+    </div>
+    <div class="text_holder">
+        <div class="scen_holder">
+            {scen}
+        </div>
+        <div class="todos hyphens">{todos}</div>
+		<div class="addons">
+            {addons}
+        </div>
+        <span class="actions hyphens">
+            {actions}
+        </span>
+
+		<br>
+		{if:$_SESSION['patient']['character_name']=='Mark Willemsen'}
+        <span class=sets>
+            Мешок: {sack_stones}<br>
+            Куча: {heap_stones}
+        </span>
+		{endif}
+    </div>
+</div>

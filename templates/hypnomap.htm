@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/tools.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles/main.css">
+	<link rel="stylesheet" type="text/css" href="styles/player_book.css">
+	<link rel="stylesheet" type="text/css" href="styles/hypnomap_salem.css">
+	<link rel="stylesheet" type="text/css" href="styles/login.css">
+</head>
+<body>
+
+    <div style="width: 900px; margin-left: 100px; margin-top: 50px;">
+
+        <div class="hypnomap a5_vert">
+
+            <div class="hypnomap_caption">{character_name}. Место рождения - {cityname}</div>
+            <div class="locations {ifsalem}locations_salem{endifsalem}">
+                {locations}
+            </div>
+            <div class=clear></div>
+			<div class="reminder">
+				Вместе с гипнотизером вы можете бродить по твоему «идеальному городу» и обсуждать твой бэкграунд. 
+				Ты НЕ обязан поддерживать диалог или отвечать на вопросы. Но если <b>отвечаешь — говори правду</b>!
+				Важно, что если гипнотизер упомянул <b>ключевое слово</b> локации, в которой ты сейчас 
+				"находишься" (в том числе однокоренное слово) —
+				отправляйся в Атлас Коллективное Бессознательное (кликни на название локации).
+			</div>
+            <div id="hypnomap_frame"></div>
+        </div>
+        <div id="controls">
+            <img src='images/label.png'><br>
+            <img src="images/diod_green.png"><br>
+            АКТИВНОСТЬ МОЗГА<br>
+            <a href='#' onClick='awakening_map()'><img src='images/tumbler.png'></a><br>
+            ЗАВЕРШИТЬ СЕАНС
+        </div>
+        <div class='clear'></div>
+    </div>
+
+</body>
+</html>
+

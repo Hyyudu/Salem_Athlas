@@ -1,0 +1,414 @@
+player_name;;character_name;password;city;psychotype;locs_absent;hypno_quot;hypno_access_unknown;hypno_cheap_memories;hypno_text_size
+Galian;Миранда Бейли;Miranda Bailey;miracle;Salem;philistine;"тюрьма
+призывной пункт
+аптека
+библиотека 
+университет";;;;
+Хедин;Марк Хаммер;Mark Hammer;borderline;Salem;smart;"тюрьма, 
+суд
+доки";;;;
+БГ;Демиан Пикеринг;Damian Pickering;diplomatic;Salem;slyboots;призывной пункт;;;;
+БарС;Лоуренс Пикеринг;Lawrence Pickering;candelabra;Salem;politician;"церковь
+призывной пункт";;;;
+Silent Meousei;Мария Пикеринг;Maria Pickering;pyrotech;Salem;addict;"призывной пункт
+университет";;;;
+Феанур;Ник Пирс;Nick Pierce;overseer;NY;individual;;;;;
+Фло;Кейт Роджерс;Cate Rogers;topgun;NY;lower;университет;;;;
+Вэлари;Эшлин Бирн;Ashlyn Birne;ironmaiden;Salem;addict;"призывной пункт
+библиотека
+университет";;;;
+Сау;Виктор Тернер;Victor Turner;solitude;Salem;philistine;"призывной пункт
+библиотека
+университет";;;;
+Мэлдор;Мерфи Линч;Murphy Lynch;forecast;Dublin;agressor;"библиотека
+университет";;;;
+Nostia;Алиса Дарквуд;Alice Darkwood;leonardo;Salem;lower;"суд
+призывной пункт
+больница
+университет";;;;
+Vart;Дерек Дарквуд;Derek Darkwood;waterlily;Salem;windy;"тюрьма
+призывной пункт";;;;
+Кир;Марко Джанини;Marco Janiny;pepperoni;Boston;politician;"церковь
+аптека
+библиотека
+университет";;;;
+Мяфа;Эвелин;Evelynn Rivier;starlight;Salem;slyboots;"церковь
+призывной пункт
+больница
+библиотека
+университет";;;;
+Тор;Юджин Гейнс;Eugene Gains;tradition;Boston;philistine;"бар
+городская площадь
+призывной пункт
+аптека";;;;
+Лионкингст;Чарльз Моррис;Charles Morris;domination;NY;individual;"суд
+тюрьма";;;;
+Синёв;Рональд Ривьер;Ronald Rivier;oldmaster;Salem;philistine;"призывной пункт
+университет
+больница";;;;
+Лиссэ;Алиенор Ривьер;Alienor Rivier;natureforce;Salem;slyboots;"церковь
+кладбище
+аптека
+призывной пункт
+больница
+университет";;;;
+Боро;Джек Посли младший;Jack Posley-jr;traveller;Salem;lower;"призывной пункт
+университет
+суд";0.75;1;1;0.75
+Воеводин Федор;Джонатан Уокер;Jonathan Walker;politician;Salem;politician;"суд
+тюрьма
+почта
+университет";;;;
+Иванов Михаил;Саймон Уокер;Simon Walker;historical;Salem;agressor;"суд
+тюрьма
+почта
+университет";;;;
+Крейл;Бруно Патрикс;Bruno Patricks;technical;Salem;philistine;"суд
+тюрьма
+почта
+университет";;;;
+Мансур;Герхард Миллер;Gerhard Miller;favorite;Salem;philistine;"тюрьма
+призывной пункт
+больница";;;;
+Маривлада;Джессика Миллер;Jessica Miller;sherwood;Salem;smart;"призывной пункт
+тюрьма";0.5;1;;0.5
+Ветер;Генри Джонс;Henry Jones;kaliyuga;New Britain;politician;;;;;
+Ардин;Гээджии;Haejee;greatspirit;Salem;politician;"церковь
+суд
+призывной пункт
+аптека
+почта
+больница
+библиотека
+университет";;;;
+Денис;Эдвард Квамис;Edward Quamis;assignment;Salem;individual;"суд
+тюрьма
+призывной пункт
+аптека
+больница
+университет";0.5;1;;0.5
+Кронин;Натан Григгс;Nathan Griggs;observer;NY;individual;"призывной пункт 
+тюрьма
+церковь";1;1;1;0.75
+Эмили;Дебора Джанини;Debora Janiny;cabbalah;NY;lower;"суд
+тюрьма
+призывной пункт
+бар
+университет";;;;
+Тигра;Винсент Оллгуд;Vincent Allgood;assistance;Boston;lower;"церковь
+суд
+университет";;;;
+Кролик;Ньярли;Nyarle;themonitor;Pillars;smart;;1;1;1;0.75
+Николетта;Дэйзи Тернер;Daisy Turner;willowsdale;Salem;slyboots;"суд
+тюрьма
+призывной пункт
+аптека
+библиотека
+университет";;;;
+Никзз;Джейкоб Кент;Jackob Kent;camomile;Charleston;lower;"призывной пункт
+аптека
+почта
+библиотека
+университет
+больница";;;;
+Эмма ЗЛ;Эмилия Аквила;Emilia Aquila;defender;Charleston;lower;"аптека
+почта
+библиотека
+университет";;;;
+Фокс;Джон Коломбо;John Colombo;stainless;Boston;politician;"кладбище
+университет";;;;
+Декар;Питер Ребер;Peter Reber;humanhive;Salem;philistine;"призывной пункт
+университет";0.4;1;;0.3
+Аранет;Аделинд Ребер;Adelind Reber;research;Salem;windy;призывной пункт;0.4;1;;0.3
+Форве;Джейкоб Фоссет;Jackob Fawcett;chalcedony;Oxford;windy;"магазин
+церковь
+городская площадь
+суд
+аптека";1;1;1;0.75
+Мор;Джонатан Тич;Jonathan Teach;treasure;Boston;windy;"церковь
+кладбище
+тюрьма
+призывной пункт
+аптека
+больница
+университет";0.4;;;0.3
+Морлинкс;Диана Голдман;Diana Goldman;insistence;NY;individual;"церковь
+кладбище
+суд
+тюрьма
+призывной пункт
+аптека";1;1;1;0.75
+Мышь;Мадам Лиа;M-me Lia;missfortune;Strasburg;individual;бар;0.5;1;;0.5
+Электра;Джессика Фелисити;Jessica Felicity;opportunity;Chicago;agressor;"родной дом
+церковь
+кладбище
+призывной пункт
+аптека
+больница
+библиотека
+университет";;;;
+Шин;Майлз Тибберс;Miles Tibbers;alighieri;Washington;smart;;;;;
+Троицкая;Таня Эрнистайн;Tanya Ernistine;raphael;Chicago;agressor;"церковь
+доки
+призывной пункт
+аптека
+университет";;;;
+Пивабрюх;Дэвид Окторп;David Oaktorp;emphasis;Smithston;slyboots;университет;;;;
+Рэндом;Сантьяго Эспозито;Santiago Esposito;dodger;Palermo;agressor;"церковь
+кладбище
+библиотека
+университет";;;;
+AnnaBell;Элизабер Ривьер;Elisabeth Rivier;counterattack;Salem;philistine;"церковь
+кладбище
+тюрьма
+призывной пункт
+аптека
+больница";;;;
+Воронин Станислав;Эсфир Сегал;Esfir Segal;foundation;London;smart;"магазин
+кладбище
+тюрьма
+доки
+призывной пункт";1;1;1;0.75
+Эйвинд;Артур Ривьер;Arthur Rivier;excalibur;Salem;slyboots;"кладбище
+церковь
+аптека
+больница";;;;
+Asheriya;Амэдэхи Блум;Amadhi Bloom;witness;Salem;smart;"кладбище
+тюрьма
+больница";;;;
+Леонтьев Петр;Абель Исаакович Кауфман;Abel Kaufman;social;StPetersburg;smart;"аптека
+больница";;;;
+Виноградов Марк;Марко Мэтью Джаннини;Marco M. Janiny;stadium;Salem;slyboots;"аптека
+больница";;;;
+Денисов Константин;Роланд Энрико Джанини;Roland Janiny;waterline;Salem;politician;"аптека
+больница";;;;
+Еж;Алан Джонс;Alan Jones;missedlink;Washington;slyboots;"церковь
+тюрьма
+призывной пункт";;;;
+Саре;Соня Кросс;Sonya Cross;chaser;Washington;individual;"магазин
+бар
+церковь
+кладбище
+городская площадь
+суд
+тюрьма
+призывной пункт";0.5;1;;0.5
+Фиона;Абигайль Тернер;Abigale Turner;martial;Salem;addict;"тюрьма
+аптека
+призывной пункт";;;;
+Cherezchas;Абигайль Ребер;Abigail Reber;position;Salem;philistine;"бар
+церковь
+тюрьма
+призывной пункт
+аптека
+больница";;;;
+Карачева Дарья;Морриган Джейн Патрикс;Morrigan Patrics;hardware;Salem;slyboots;"тюрьма
+призывной пункт
+аптека
+больница";;;;
+Хыиуду;Марк Виллемсен;Mark Willemsen;octave;Salem;windy;;1;1;1;1
+Крайк;Х. Аарон;H. Aaron;ulysses;Salem;smart;;1;1;1;1
+Оригинал Ярбуха;Оригинал Ярбуха;Sigmund Freud;egocentric;Salem;windy;;1;1;1;0.75
+Ниниэль Торвен;Файни Тич;Finey Teach;parchment;Boston;philistine;"церковь
+аптека";;;;
+Рамина;Ванесса Ингерсолл;Vanessa Ingersoll;violin;NY;addict;"тюрьма
+суд
+призывной пункт";;;;
+Исиль;Шейла Ингерсолл;Sheila Ingersoll;allegro;NY;philistine;"доки
+суд
+призывной пункт";;;;
+Сонри;Арабелла Ингерсолл;Arabella Ingersoll;cartographer;NY;slyboots;"тюрьма
+церковь
+призывной пункт";;;;
+cliford;Грегори Грей;Gregory Grey;jeronimo;Chicago;windy;"доки
+тюрьма
+церковь";;;;
+Вай Цзы;Соломон Уард;Solomone Ward;merciful;Chicago;individual;"доки
+аптека";;;;
+Ольга;Мари Кауфман;Mary Kaufman;cliffhanger;Barselona;windy;"суд
+тюрьма
+церковь";;;;
+Катя Суворова;Мадлен Брукс;Madlene Brooks;octopus;NY;smart;"церковь
+бар";;;;
+Грей;Джонатан Брукс;Jonathan Brooks;starlight;NY;smart;"церковь
+суд
+тюрьма";;;;
+Денис;Чак Паланик;Chuck Palanic;oldlegend;NY;smart;;;;;
+????;Грейс Грей;Grace Grey;prometheus;Chicago;windy;"доки
+тюрьма";;;;
+Кайре;Марта Клэр Моррис;Marta Morris;ambidexter;NY;windy;"церковь
+кладбище
+суд
+тюрьма";;;;
+Стрит;Мишель Вега;Michelle Vega;fortitude;NY;addict;"призывной пункт
+почта
+больница
+библиотека";;;;
+Хэл;Зак МакГиллан;Zack McGillan;charisma;Edinburg;smart;"тюрьма
+суд";;;;
+Тинд Даэ;Присцилла Пикеринг;Priscilla Pickering;nightwolf;Salem;politician;"призывной пункт
+университет";;;;
+Дана;Элеонора Пикеринг;Eleonore Pickering;visitor;Salem;random;"суд
+призывной пункт
+аптека
+больница
+университет";;;;
+Хаст;Томас Квамис;Tomas Quamis;positive;Salem;individual;"университет
+библиотека";;;;
+Фернестель;Джонатан Шейд;Jonathan Shade;ironforge;London;individual;"церковь
+доки";;;;
+Десивер;Тонто Лонгфезер;Tonto Longfeather;lethargic;Salem;individual;"церковь
+суд
+доки
+призывной пункт
+аптека
+почта
+больница
+библиотека
+университет";1;1;;0.75
+Марыська;Саманта Джонсон;Samantha Johnson;canzone;Chicago;individual;"призывной пункт
+университет";1;1;;0.75
+запасная роль;Р'Кот;Rkot;orlando;Sapphire;smart;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Р'Кет;Rcat;hypocrisy;Sapphire;smart;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Р'Китти;Rkitty;nuclear;Sapphire;smart;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Р'Катзен;Rcatzen;tommygun;Sapphire;smart;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Фрнфр'Кот;Frnfrkot;starfall;Sapphire;windy;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Фрнфр'Кет;Frnfrcat;mountain;Sapphire;windy;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Фрнфр'Китти;Frnfrkitty;village;Sapphire;windy;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Фрнфр'Катзен;Frnfrcatzen;ensign;Sapphire;windy;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Z'Кот;Zkot;attache;Sapphire;individual;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Z'Кет;Zcat;mandoline;Sapphire;individual;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Z'Китти;Zkitty;architect;Sapphire;individual;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;Z'Катзен;Zcatzen;cooldown;Sapphire;individual;"родной дом
+церковь
+тюрьма
+бар
+городская площадь
+больница";;;;
+запасная роль;;Abi Nagi;sphere;Ruby;philistine;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Beti Nagi;diligent;Ruby;philistine;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Gvenni Nagi;luxury;Ruby;philistine;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Mori Nagi;congenial;Ruby;philistine;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Abi Meduzi;rainbowdash;Ruby;slyboots;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Beti Meduzi;applepie;Ruby;slyboots;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Gvenni Meduzi;continue;Ruby;slyboots;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Mori Meduzi;species;Ruby;slyboots;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Abi Nagini;comfort;Ruby;addict;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Beti Nagini;turnover;Ruby;addict;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Gvenni Nagini;common;Ruby;addict;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;
+запасная роль;;Mori Nagini;phoenix;Ruby;addict;"почта
+университет
+суд
+библиотека
+аптека
+магазин";;;;

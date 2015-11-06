@@ -1,0 +1,43 @@
+print;corp;cycle;type;caption
+1;saleminc;Mercury;whiskey;1 shot<br>whiskey
+1;saleminc;Venus;other;1 pack<br>medical bandage
+1;saleminc;Mars;cigars;1 item<br>cigars
+1;saleminc;Jupiter;other;1 session<br>hypnotherapy
+1;saleminc;Saturn;cigars;1 item<br>cigars
+1;saleminc;Uranus;other;1 pack<br>medical bandage
+1;saleminc;Neptune;other;1 session<br>hypnotherapy
+1;military;Mercury;ammo;1 cartridge<br>ammo
+1;military;Venus;ammo;1 cartridge<br>ammo
+1;military;Mars;other;1 pack<br>medical bandage
+1;military;Jupiter;other;1 session<br>hypnotherapy
+1;military;Saturn;cigars;1 item<br>cigars
+1;military;Uranus;other;1 pack<br>medical bandage
+1;military;Neptune;other;1 session<br>hypnotherapy
+1;jewsnews;Mercury;cigars;3 items<br>cigars
+1;jewsnews;Venus;other;1 item<br>medicine
+1;jewsnews;Mars;ammo;1 pack<br>ammo
+1;jewsnews;Jupiter;cigars;3 items<br>cigars
+1;jewsnews;Saturn;other;1 item<br>medicine
+1;jewsnews;Uranus;cigars;3 item<br>cigars
+1;jewsnews;Neptune;cigars;2 item<br>cigars
+1;genesis;Mercury;ammo;1 cartridge<br>ammo
+1;genesis;Venus;whiskey;1 bottle<br>whiskey
+1;genesis;Mars;ammo;1 pack<br>ammo
+1;genesis;Jupiter;ammo;1 cartridge<br>ammo
+1;genesis;Saturn;ammo;1 pack<br>ammo
+1;genesis;Uranus;ammo;1 cartridge<br>ammo
+1;genesis;Neptune;ammo;1 cartridge<br>ammo
+1;shamrock;Mercury;whiskey;1 bottle<br>whiskey
+1;shamrock;Venus;whiskey;1 bottle<br>whiskey
+1;shamrock;Mars;other;1 item<br>medicine
+1;shamrock;Jupiter;whiskey;2 bottles<br>whiskey
+1;shamrock;Saturn;whiskey;1 bottle<br>whiskey
+1;shamrock;Uranus;whiskey;2 bottles<br>whiskey
+1;shamrock;Neptune;whiskey;1 bottle<br>whiskey
+1;felicity;Mercury;ammo;1 cartridge<br>ammo
+1;felicity;Venus;ammo;1 pack<br>ammo
+1;felicity;Mars;cigars;2 item<br>cigars
+1;felicity;Jupiter;ammo;1 pack<br>ammo
+1;felicity;Saturn;other;1 item<br>medicine
+1;felicity;Uranus;ammo;1 pack<br>ammo
+1;felicity;Neptune;cigars;3 items<br>cigars

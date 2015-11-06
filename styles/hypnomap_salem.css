@@ -1,0 +1,14 @@
+.locations_salem	{
+	height: 173mm;
+}
+
+.locations_salem .location	{
+	height: 34mm;
+	width: 42mm;
+	background-position: 6mm 0;
+	background-size: 75% 86%;
+}
+
+.locations_salem .location_name	{
+	margin-top: 20mm;
+}

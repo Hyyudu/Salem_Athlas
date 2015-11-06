@@ -1,0 +1,13 @@
+role_id;good_type;price;malt;polymer;tare;alkaloid
+12;morphine;2500;2;;1;1
+12;ether;1000;2;;;1
+12;cocaine;3500;1;1;;2
+12;whiskey;300;1;;1;
+17;ammo;600;;1;1;
+17;dynamite;1500;;2;2;
+17;morphine;2500;2;;1;1
+17;ether;1000;2;;;1
+22;cocaine;3500;;1;1;2
+22;whiskey;300;1;;1;
+22;dynamite;1500;;2;2;
+22;ammo;600;;1;1;

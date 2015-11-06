@@ -1,0 +1,219 @@
+body    {
+    background-image: url('../images/athlas_background.jpg');
+    color: #AAA;
+}
+
+*   {
+    box-sizing: border-box;
+}
+
+#wrapper    {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.roundrect   {
+    border: 2px #888 solid; /* стили рамки */
+    -moz-border-radius: 10px; /* закругление для старых Mozilla Firefox */
+    -webkit-border-radius: 10px; /* закругление для старых Chrome и Safari */
+    -khtml-border-radius:10px; /* закругл. для браузера Konquerer системы Linux */
+    border-radius: 10px; /* закругление углов для всех, кто понимает */
+    margin-bottom: 40px;
+}
+
+.block_caption {
+    z-index: 5;
+    margin-top: -12px;
+    margin-left: 20px;
+    background-image: url('../images/athlas_background.jpg');
+    padding: 0 20px;
+    margin-bottom: 20px;
+    font-size: 16px !important;
+}
+
+.input_block1, .input_block2    {
+    float: left;
+    width: 35%;
+    text-align: center;
+}
+
+.input_block2   {
+    width: 30%;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+.input_caption  {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.img_switcher {
+    width:  150px;
+    cursor: pointer;
+}
+
+.img_diod   {
+    width: 40px;
+    margin-bottom: -14px;
+}
+
+.input_block1 input, .logged_name {
+    background-image: url('../images/input_gray.png');
+    background-size: 100% 100%;
+    border: none;
+    width: 260px;
+    height: 60px;
+    color: #DDD;
+    font-size: 20px;
+    background-color: #1F1F1F;
+    padding: 0 18px;
+    text-transform: uppercase;
+}
+
+.logged_name    {
+    background-image: url('../images/input_yellow.png');
+    color: black;
+    margin: 0 auto;
+    padding: 16px 0 0 18px;
+    text-align: left;
+    font-family: Verdana;
+}
+
+.error_msg  {
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+    min-height: 30px;
+}
+
+.logged, #proceed  {
+    display: none;
+}
+
+#proceed {
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.proceed_dir    {
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+
+#switcher_story {
+    width: 200px;
+    cursor: pointer;
+}
+
+#tumbler    {
+    width: 150px;
+    cursor: pointer;
+}
+
+
+#proceed_unknown    {
+    width: 36%;
+}
+
+#switcher img   {
+    width: 165px;
+    cursor: pointer;
+}
+
+#start_tumbler  {
+    text-align: center;
+}
+
+#start_tumbler img  {
+    width: 150px;
+    cursor:pointer;
+}
+
+.clear  {clear:both;}
+
+#sliders    {
+    padding-left: 30px;
+    width: 70%;
+    float:left;
+}
+
+#controls   {
+    float:left;
+    width: 30%;
+    text-align: center;
+}
+
+#controls img   {
+    max-width: 150px;
+}
+
+#controls #tumbler   {
+    width: 100px;
+    cursor: pointer;
+}
+
+#set_stones tr  {
+    height: 40px;
+    vertical-align: middle;
+}
+
+#set_stones td  {
+    padding: 5px;
+}
+
+#set_stones input   {
+    width:58px;
+    text-align: center;
+}
+
+#set_stones img {
+    width: 30px;
+    height: 30px;
+}
+
+.hint   {
+    color: #FFDD00;
+}
+
+#hypno_results, #other_results  {
+    padding: 0 10px 10px 10px;
+    width: 60%;
+}
+
+#hypno_results  {
+    font-size: 1.3em;
+}
+
+#hypno_results img, #other_results img {
+    width: 40px;
+    height: 40px;
+}
+
+#other_results .scene_img  {
+    width: 120px;
+    height: 180px;
+}
+
+.stone_result   {
+    float: left;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1.5em;
+}
+
+.diff   {
+    color:  #FFDD00;
+    font-weight: bold;
+}
+
+.comment    {
+    font-weight: bold;
+    margin-left: 20px;
+    color: #FFDD00;
+    margin-bottom: 10px;
+}
